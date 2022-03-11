@@ -4,7 +4,9 @@
 - Android SDK Version 30 or above
 
 ## Screenshots
-![start_screen](https://imgur.com/a/8Yrwe4C)
+[![Screen1.jpg](https://i.postimg.cc/fbQG7L3m/Screen1.jpg)](https://postimg.cc/SnV1kmfx)
+&nbsp;&nbsp; &nbsp;  [![Screen2.jpg](https://i.postimg.cc/G2c6N5xp/Screen2.jpg)](https://postimg.cc/p9605k7N)
+&nbsp;&nbsp; &nbsp;  [![Screen6.jpg](https://i.postimg.cc/vm7p0s9j/Screen6.jpg)](https://postimg.cc/zLBtf4xS)
 
 ## Things I learnt while building this app
 - Layouting UI elements
