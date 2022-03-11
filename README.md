@@ -1,11 +1,20 @@
 # QuizApp : A naive quiz-app for Android
 
+## Requirements
+- Android SDK Version 30 or above
+
+## Screenshots
+![start_screen](https://imgur.com/a/8Yrwe4C)
+
 ## Things I learnt while building this app
 - Layouting UI elements
 - Create Custom Java Classes to satisfy given use-cases.
 - Intents and Message-passing through Intents
 - Android App Activity Life Cycle
 - Setting Custom App Icons
+
+
+
 
 ## Future Scopes of the App
 - Implement user-accounts for using the app. Sign-in and authentication can be done using **Firebase**
